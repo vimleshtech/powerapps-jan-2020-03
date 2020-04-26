@@ -1,0 +1,45 @@
+Boxplot:
+Scatter:
+LineChart:
+BarChart:
+pie chart:
+Area chart:
+
+
+employee table
+=================
+eid name gender country depatment dob  exp desg  doj  salary office_location  client
+
+--bar
+gender wise ratio
+country wise headcount 
+department wise headcount
+exp wise headcount
+desg wise headcount
+office_location  headcount
+client wise headcount
+
+department wise salary
+department wise gender
+coutnry wise salary
+
+--line chart
+year on year employee headcount
+month on month for current year employee headcount
+
+year on year joining in department
+year on year joining in country 
+
+
+Boxplot
+=================
+salary
+exp 
+
+Scatter:
+=====================
+
+
+pie
+=============
+gender 
